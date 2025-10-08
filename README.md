@@ -2,6 +2,9 @@
 
 A simple login page GUI built with Tkinter and Pillow in Python.
 
+
+![Login Page Image](ss.jpg)
+
 ## Features
 
 - Login form with email and password fields
